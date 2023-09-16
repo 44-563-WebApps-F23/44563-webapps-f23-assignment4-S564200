@@ -8,6 +8,7 @@
     font-size: 16px;
     color: black;
     background-color: beige;
+
 }
 .direction:hover{
     background-color: lightblue;
@@ -16,11 +17,23 @@
 .NORA{
     color:blue;
 }
+.NORA:hover{
+    text-shadow:2px 3px 5px green;
+    border: 1px dotted black;
+}
 .HELMER{
     color:cadetblue;
 }
+.HELMER:hover{
+    text-shadow:2px 3px 5px green;
+    border: 1px dotted black;
+}
 .PORTER{
     color:chocolate;
+}
+.PORTER:hover{
+    text-shadow:2px 3px 5px green;
+    border: 1px dotted black;
 }
 .table{
     font-family: 'Times New Roman', Times, serif;
@@ -37,4 +50,8 @@
     background-color: lightgreen;
     color: red;
 }
+
+
+
+
 
