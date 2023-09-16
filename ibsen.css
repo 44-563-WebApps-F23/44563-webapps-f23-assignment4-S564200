@@ -22,3 +22,19 @@
 .PORTER{
     color:chocolate;
 }
+.table{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    border: 5px;
+    color: lightskyblue;
+    text-align: center;
+    padding: 10px;
+    margin-left: 25%;
+
+}
+
+.table th {
+    background-color: lightgreen;
+    color: red;
+}
+
