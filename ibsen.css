@@ -50,6 +50,30 @@
     background-color: lightgreen;
     color: red;
 }
+.navbar {
+    margin-right: 20px;
+    padding: 0px;
+}
+.navbar ul{
+    list-style-type: none;
+}
+
+.navbar li {
+    float: left;
+    color: lightskyblue;
+    background-color: lightgreen;
+}
+
+.navbar a {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+
+
+
+
+
 
 
 
